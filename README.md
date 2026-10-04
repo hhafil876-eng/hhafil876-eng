@@ -8,7 +8,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=hhafil876-eng&style=for-the-badge&color=161616&label=PROFILE+VIEWS" />
+<img src=<img width="856" height="1032" alt="hafiz" src="https://github.com/user-attachments/assets/d7c3ca4e-778b-477e-a397-35722ae6bfd6" />
+ />
 
 </div>
 
