@@ -8,7 +8,11 @@
 
 <br/><br/>
 
-<img src=<img width="856" height="1032" alt="hafiz" src="https://github.com/user-attachments/assets/d7c3ca4e-778b-477e-a397-35722ae6bfd6" />
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/d7c3ca4e-778b-477e-a397-35722ae6bfd6" width="350" />
+
+</div>
  />
 
 </div>
