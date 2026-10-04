@@ -1,419 +1,329 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:120006,65:30000B,100:00E5FF&height=280&section=header&text=MOHAMMED%20HAPIZ&fontSize=54&fontColor=FFFFFF&fontAlignY=35&desc=COMPUTER%20SCIENCE%20%E2%80%A2%20AI%20%E2%80%A2%20CREATIVE%20TECHNOLOGY&descAlignY=57&descSize=16&descColor=00E5FF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080808,65:161616,100:B91C1C&text=MOHAMMED%20HAPIZ&fontColor=F2F0EA&fontSize=48&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20AI%20%7C%20DIGITAL%20CREATIVE&descAlignY=60&descSize=15&animation=fadeIn" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=1800&pause=500&color=00E5FF&center=true&vCenter=true&width=850&height=80&lines=%E3%80%90+INITIALIZING+PROFILE...+%E3%80%91;%E3%80%90+SYSTEM+ONLINE+%E3%80%91;LEARN+%E2%80%A2+BUILD+%E2%80%A2+CREATE;JAVA+%E2%80%A2+WEB+%E2%80%A2+AI;%E3%80%90+CREATIVITY+%C3%97+TECHNOLOGY+%E3%80%91" alt="Animated typing header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=B91C1C&center=true&vCenter=true&width=700&lines=BUILDING+IDEAS+INTO+DIGITAL+EXPERIENCES;COMPUTER+SCIENCE+STUDENT;AI+%2B+CREATIVE+TECHNOLOGY;DESIGN+%7C+CONTENT+%7C+DIGITAL+SOLUTIONS" />
 
-<br>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-050505?style=for-the-badge&labelColor=050505&color=00E5FF"/>
-<img src="https://img.shields.io/badge/MODE-BUILD-050505?style=for-the-badge&labelColor=050505&color=FF1744"/>
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20CREATIVE-050505?style=for-the-badge&labelColor=050505&color=FFFFFF"/>
-
-<br><br>
-
-<a href="https://github.com/hhafil876-eng">
-<img src="https://img.shields.io/badge/GITHUB-ENTER-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-hapiz-4a692429a/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=hhafil876-eng&label=VISITORS&color=FF1744&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=hhafil876-eng&style=for-the-badge&color=161616&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-<div align="center">
+# `01 / PROFILE`
 
-# `東京 // DIGITAL SHINOBI`
+> **Computer Science Student • Java • AI & Digital Solutions**
 
-### `TECHNOLOGY × CREATIVITY × AI`
+I'm a Computer Science student focused on combining **technology, AI and creative digital work**.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,50:050505,100:00E5FF&height=4&section=header" width="80%"/>
-
-</div>
-
-<br>
+I enjoy building projects, exploring Generative AI, creating digital content and turning ideas into practical experiences.
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                  SYSTEM BOOT SEQUENCE                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  USER       : MOHAMMED HAPIZ                                 ║
-║  CLASS      : COMPUTER SCIENCE STUDENT                       ║
-║  CORE       : JAVA                                           ║
-║  DOMAIN     : WEB • AI • GENERATIVE AI                       ║
-║  CREATIVE   : VIDEO • PHOTO • DESIGN • CONTENT               ║
-║  STATUS     : ● ONLINE                                       ║
-║                                                              ║
-║  ──────────────────────────────────────────────────────────  ║
-║                                                              ║
-║  MISSION    : TURN IDEAS INTO DIGITAL EXPERIENCES            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1400&pause=400&color=FF1744&center=true&vCenter=true&width=700&lines=%E3%80%8A+WELCOME+TO+MY+DIGITAL+WORLD+%E3%80%8B;%E3%80%8A+CODE+IS+ONLY+THE+BEGINNING+%E3%80%8B;%E3%80%8A+CREATE.+BREAK.+REBUILD.+%E3%80%8B" alt="Animated system message"/>
-
-</div>
-
----
-
-# `01 // PROFILE`
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,50:180006,100:001820&height=110&section=header&text=THE%20PERSON%20BEHIND%20THE%20CODE&fontSize=22&fontColor=FFFFFF&animation=fadeIn"/>
-
-</div>
-
-I'm **Mohammed Hapiz**, a Computer Science student exploring the intersection of **software, artificial intelligence and creative technology**.
-
-I like learning by actually building things.
-
-My interests move between:
-
-`JAVA` → `WEB` → `AI` → `GENERATIVE AI` → `DIGITAL PRODUCTS` → `CREATIVE MEDIA`
-
-Outside traditional development, I work with **video editing, photography, videography, graphic design, social media and digital marketing**.
-
-My long-term direction is simple:
-
-> **Build useful technology and make it visually powerful.**
-
----
-
-# `02 // SKILL CORE`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,html,css&perline=3" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/AI-FF1744?style=for-the-badge&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-00E5FF?style=for-the-badge&logoColor=000000"/>
-<img src="https://img.shields.io/badge/PROMPT%20ENGINEERING-FFFFFF?style=for-the-badge&logoColor=000000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/VIDEO%20EDITING-FF1744?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VIDEOGRAPHY-00E5FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PHOTOGRAPHY-FFFFFF?style=for-the-badge&logoColor=000000"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/CANVA-FF1744?style=for-the-badge&logo=canva"/>
-<img src="https://img.shields.io/badge/CAPCUT-00E5FF?style=for-the-badge&logo=capcut&logoColor=000000"/>
-<img src="https://img.shields.io/badge/ADOBE%20EXPRESS-FFFFFF?style=for-the-badge&logo=adobe&logoColor=000000"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `技能 // SKILL MATRIX`
-
-</div>
-
-```text
-              ╭──────────────────────────╮
-              │       CORE SYSTEM        │
-              ╰────────────┬─────────────╯
-                           │
-             ┌─────────────┼─────────────┐
-             ↓             ↓             ↓
-          PROGRAMMING     AI          CREATIVE
-             │             │             │
-         ┌───┼───┐     ┌───┼───┐     ┌───┼────┐
-         ↓   ↓   ↓     ↓   ↓   ↓     ↓   ↓    ↓
-       JAVA HTML CSS   AI  GEN  PE   VIDEO PHOTO DESIGN
-                                  │
-                                  ↓
-                            DIGITAL MEDIA
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   NAME        Mohammed Hapiz                                 │
+│   FIELD       Computer Science                               │
+│   FOCUS       Java • AI • Digital Solutions                  │
+│   CREATIVE    Video • Photography • Graphic Design           │
+│   INTEREST    Generative AI • Digital Products • Business    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `03 // AI CORE`
+# `02 / CORE SKILLS`
+
+### TECHNOLOGY
+
+![Java](https://img.shields.io/badge/JAVA-080808?style=for-the-badge\&logo=openjdk\&logoColor=F2F0EA)
+![HTML](https://img.shields.io/badge/HTML-080808?style=for-the-badge\&logo=html5\&logoColor=F2F0EA)
+![CSS](https://img.shields.io/badge/CSS-080808?style=for-the-badge\&logo=css3\&logoColor=F2F0EA)
+![Git](https://img.shields.io/badge/GIT-080808?style=for-the-badge\&logo=git\&logoColor=F2F0EA)
+![GitHub](https://img.shields.io/badge/GITHUB-080808?style=for-the-badge\&logo=github\&logoColor=F2F0EA)
+
+### AI & DIGITAL
+
+![AI](https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-161616?style=for-the-badge\&logoColor=F2F0EA)
+![GenAI](https://img.shields.io/badge/GENERATIVE%20AI-161616?style=for-the-badge\&logoColor=F2F0EA)
+![Prompt Engineering](https://img.shields.io/badge/PROMPT%20ENGINEERING-161616?style=for-the-badge\&logoColor=F2F0EA)
+![Digital Marketing](https://img.shields.io/badge/DIGITAL%20MARKETING-161616?style=for-the-badge\&logoColor=F2F0EA)
+![Social Media](https://img.shields.io/badge/SOCIAL%20MEDIA-161616?style=for-the-badge\&logoColor=F2F0EA)
+
+### CREATIVE
+
+![Video Editing](https://img.shields.io/badge/VIDEO%20EDITING-080808?style=for-the-badge\&logoColor=F2F0EA)
+![Photography](https://img.shields.io/badge/PHOTOGRAPHY-080808?style=for-the-badge\&logoColor=F2F0EA)
+![Videography](https://img.shields.io/badge/VIDEOGRAPHY-080808?style=for-the-badge\&logoColor=F2F0EA)
+![Graphic Design](https://img.shields.io/badge/GRAPHIC%20DESIGN-080808?style=for-the-badge\&logoColor=F2F0EA)
+![Content Creation](https://img.shields.io/badge/CONTENT%20CREATION-080808?style=for-the-badge\&logoColor=F2F0EA)
+
+---
+
+# `03 / DIGITAL STACK`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00000000&height=100&section=header&text=人工知能&fontSize=38&fontColor=FF1744&animation=fadeIn"/>
-
-### `ARTIFICIAL INTELLIGENCE`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1600&pause=500&color=00E5FF&center=true&vCenter=true&width=750&lines=EXPLORE+AI;EXPERIMENT+WITH+GENERATIVE+AI;LEARN+PROMPT+ENGINEERING;BUILD+AI-POWERED+IDEAS" alt="AI animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=F2F0EA&center=true&vCenter=true&width=700&lines=TECHNOLOGY+MEETS+CREATIVITY;CODE+MEETS+DESIGN;IDEAS+MEET+EXECUTION" />
 
 </div>
 
-```text
-        ┌─────────────────────────────┐
-        │       ARTIFICIAL INTEL.     │
-        └──────────────┬──────────────┘
-                       │
-         ┌─────────────┼─────────────┐
-         ↓             ↓             ↓
-       AI            GEN AI       PROMPTS
-         │             │             │
-         └─────────────┼─────────────┘
-                       ↓
-                DIGITAL PRODUCTS
-                       ↓
-                  REAL PROBLEMS
-```
+<br/>
+
+| AREA          | FOCUS                                           |
+| ------------- | ----------------------------------------------- |
+| `PROGRAMMING` | Java                                            |
+| `WEB`         | HTML • CSS • Web Fundamentals                   |
+| `AI`          | Artificial Intelligence • Generative AI         |
+| `PROMPTS`     | Prompt Engineering                              |
+| `MEDIA`       | Video Editing • Photography • Videography       |
+| `DESIGN`      | Graphic Design • Posters • Digital Content      |
+| `MARKETING`   | Digital Marketing • Social Media                |
+| `TOOLS`       | Git • GitHub • VS Code • Canva • CapCut • Adobe |
 
 ---
 
-# `04 // PROJECT ARCHIVE`
+# `04 / PROJECT ARCHIVE`
 
-<div align="center">
+## `01 — BLADEQUEST`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:30000B,100:001820&height=120&section=header&text=PROJECT%20ARCHIVE&fontSize=30&fontColor=FFFFFF&animation=fadeIn"/>
+### REALM OF STARS
 
-</div>
-
-## `01` ⚔️ BLADEQUEST — REALM OF STARS
+A browser-based fantasy adventure game built around exploration, combat and progression.
 
 ```text
-TYPE       : GAME PROJECT
-STYLE      : FANTASY / ANIME-INSPIRED
-STATUS     : PROJECT
-
-SYSTEMS
-├── Character movement
-├── Sword combat
-├── Dash mechanics
-├── Enemy encounters
-├── Boss battle
-├── Exploration
-└── Local save system
-```
-
-`JavaScript` `Phaser` `Vite` `HTML` `CSS`
-
----
-
-## `02` 🛡️ SCAMSHIELD
-
-```text
-TYPE       : DIGITAL SAFETY PROJECT
-STATUS     : PROJECT
-
-TARGETS
-├── OTP scams
-├── Payment scams
-├── Phishing
-├── Impersonation
-├── Prize scams
-└── Banking scams
-```
-
-### `MISSION`
-
-> **Make digital safety easier to understand.**
-
----
-
-## `03` 🏯 DECOSPACE
-
-```text
-TYPE       : DIGITAL PRODUCT CONCEPT
-STATUS     : PROJECT
-
-FLOW
-
-DISCOVER
-   ↓
 EXPLORE
    ↓
-DESIGN
+MOVE
    ↓
-CONNECT
+COMBAT
    ↓
-CREATE
+DASH
+   ↓
+ENEMIES
+   ↓
+BOSS
+   ↓
+SAVE PROGRESS
 ```
 
-A concept focused on **interior design discovery, inspiration and designer experiences**.
+**Focus:** Game design • Gameplay systems • Combat • Progression • Save system
 
----
+<br/>
 
-# `05 // CREATIVE_DIVISION`
+## `02 — SCAMSHIELD`
 
-<div align="center">
+### DIGITAL SAFETY
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF1744,50:050505,100:00E5FF&height=120&section=header&text=CREATIVE%20DIVISION&fontSize=30&fontColor=FFFFFF&animation=fadeIn"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=1300&pause=350&color=FF1744&center=true&vCenter=true&width=800&lines=PHOTOGRAPHY;VIDEOGRAPHY;VIDEO+EDITING;GRAPHIC+DESIGN;CONTENT+CREATION;SOCIAL+MEDIA;DIGITAL+MARKETING" alt="Creative animation"/>
-
-</div>
+A digital-safety project designed to help users identify common scam patterns.
 
 ```text
-        FRAME
-          ↓
-       CAPTURE
-          ↓
-        EDIT
-          ↓
-       DESIGN
-          ↓
-       PUBLISH
-          ↓
-       ENGAGE
+SCAM TYPES
+
+[ OTP / PASSWORD ]
+[ PAYMENT ]
+[ PHISHING LINKS ]
+[ PRIZES ]
+[ IMPERSONATION ]
+[ BANKING ]
+[ URGENCY ]
 ```
 
----
+**Focus:** Digital awareness • Scam detection • User experience • Safety
 
-# `06 // CURRENTLY_LOADING`
+<br/>
 
-<div align="center">
+## `03 — DECOSPACE`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=1000&pause=250&color=00E5FF&center=true&vCenter=true&width=800&lines=%5B+01+%5D+STRENGTHENING+JAVA;%5B+02+%5D+IMPROVING+WEB+FUNDAMENTALS;%5B+03+%5D+EXPLORING+AI;%5B+04+%5D+EXPLORING+GENERATIVE+AI;%5B+05+%5D+MASTERING+PROMPT+ENGINEERING;%5B+06+%5D+BUILDING+DIGITAL+PRODUCTS" alt="Learning animation"/>
+### DESIGN • DISCOVER • CREATE
 
-</div>
-
----
-
-# `07 // THE_DOJO`
-
-<div align="center">
+A digital interior-design concept connecting design inspiration, projects and designers.
 
 ```text
-       ╔═══════════════════════════════════╗
-       ║                                   ║
-       ║          LEARN                    ║
-       ║            ↓                      ║
-       ║          BUILD                    ║
-       ║            ↓                      ║
-       ║         EXPERIMENT                ║
-       ║            ↓                      ║
-       ║          BREAK                    ║
-       ║            ↓                      ║
-       ║          FIX                      ║
-       ║            ↓                      ║
-       ║         IMPROVE                   ║
-       ║            ↓                      ║
-       ║          REPEAT                   ║
-       ║                                   ║
-       ╚═══════════════════════════════════╝
+EXPLORE
+   │
+   ├── PROJECTS
+   │
+   ├── DESIGNERS
+   │
+   ├── INSPIRATION
+   │
+   └── DESIGN STUDIO
 ```
 
-### `DISCIPLINE > MOTIVATION`
-
-</div>
+**Focus:** Digital product concept • Design discovery • Creative technology
 
 ---
 
-# `08 // GITHUB_ACTIVITY`
+# `05 / CREATIVE DIVISION`
 
-<div align="center">
+Technology is only one side of what I do.
 
-<img src="https://github-readme-stats.vercel.app/api?username=hhafil876-eng&show_icons=true&hide_border=true&bg_color=050505&title_color=FF1744&icon_color=00E5FF&text_color=FFFFFF&ring_color=FF1744&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hhafil876-eng&theme=dark&hide_border=true&background=050505&ring=FF1744&fire=00E5FF&currStreakLabel=FF1744&sideLabels=FFFFFF&dates=777777" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhafil876-eng&layout=compact&hide_border=true&bg_color=050505&title_color=00E5FF&text_color=FFFFFF"/>
-
-</div>
-
----
-
-# `09 // CONTRIBUTION_NIGHT`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation"/>
-
-</div>
-
----
-
-# `10 // 2026_MISSION`
+I also work around **visual storytelling and digital media**.
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                   MISSION 2026                      ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [✓] Learn                                            ║
-║  [✓] Experiment                                       ║
-║  [✓] Create                                           ║
-║  [ ] Become stronger in Java                          ║
-║  [ ] Build better projects                            ║
-║  [ ] Go deeper into AI                                ║
-║  [ ] Explore Generative AI                            ║
-║  [ ] Improve digital product development              ║
-║  [ ] Strengthen creative portfolio                    ║
-║  [ ] Explore entrepreneurship                         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+             CREATIVE WORK
+                   │
+       ┌───────────┼───────────┐
+       │           │           │
+   VIDEO       PHOTO       DESIGN
+       │           │           │
+       └───────────┼───────────┘
+                   │
+             SOCIAL MEDIA
+                   │
+             DIGITAL BRANDING
+```
+
+### MEDIA
+
+* Video Editing
+* Photography
+* Videography
+* Reel Creation
+* Social Media Content
+* Poster Design
+* Graphic Design
+
+### TOOLS
+
+**CapCut • Alight Motion • Adobe • Canva**
+
+---
+
+# `06 / CURRENTLY BUILDING`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=800&color=B91C1C&center=true&vCenter=true&width=650&lines=LEARNING+MORE+ABOUT+AI;IMPROVING+JAVA+SKILLS;BUILDING+DIGITAL+PROJECTS;EXPLORING+ENTREPRENEURSHIP;CREATING+BETTER+DIGITAL+EXPERIENCES" />
+
+<br/>
+
+```text
+STATUS
+
+[■■■■■■■■■■■■■■■■■■□□]  LEARNING
+[■■■■■■■■■■■■■■■□□□□□]  BUILDING
+[■■■■■■■■■■■■■■□□□□□□]  CREATING
+[■■■■■■■■■■■■□□□□□□□]  EXPLORING
 ```
 
 ---
 
-# `11 // DIGITAL_PHILOSOPHY`
+# `07 / EXPERIENCE MINDSET`
+
+I believe good digital products sit at the intersection of:
+
+```text
+             TECHNOLOGY
+                  ▲
+                  │
+                  │
+CREATIVITY ◄──────┼──────► BUSINESS
+                  │
+                  │
+                  ▼
+              USER VALUE
+```
+
+My goal is not simply to write code.
+
+**It's to understand the problem, create the solution and make the experience better.**
+
+---
+
+# `08 / GITHUB ACTIVITY`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2000&pause=700&color=FF1744&center=true&vCenter=true&width=850&height=90&lines=BUILD+WITH+PURPOSE.;DESIGN+WITH+INTENTION.;LEARN+WITHOUT+LIMITS.;CREATE+YOUR+OWN+PATH." alt="Philosophy animation"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hhafil876-eng&show_icons=true&hide_border=true&bg_color=080808&title_color=F2F0EA&text_color=777777&icon_color=B91C1C&ring_color=B91C1C" width="49%"/>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hhafil876-eng&hide_border=true&background=080808&ring=B91C1C&fire=B91C1C&currStreakLabel=F2F0EA&sideLabels=F2F0EA&dates=777777&currStreakNum=F2F0EA&sideNums=F2F0EA" width="49%"/>
 
-```text
-       CODE
-        +
-       AI
-        +
-    CREATIVITY
-        +
- ENTREPRENEURSHIP
-        │
-        ▼
-   DIGITAL IMPACT
-```
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhafil876-eng&layout=compact&hide_border=true&bg_color=080808&title_color=F2F0EA&text_color=777777" width="42%"/>
 
 </div>
 
 ---
 
-# `12 // CONNECT`
+# `09 / 2026 — DIRECTION`
+
+```text
+                BUILD
+                  │
+                  ▼
+             ┌─────────┐
+             │   AI    │
+             └────┬────┘
+                  │
+                  ▼
+             ┌─────────┐
+             │ DIGITAL │
+             └────┬────┘
+                  │
+                  ▼
+             ┌─────────┐
+             │CREATIVE │
+             └────┬────┘
+                  │
+                  ▼
+             ┌─────────┐
+             │ BUSINESS│
+             └─────────┘
+```
+
+### CURRENT OBJECTIVES
+
+`01` Strengthen programming fundamentals
+`02` Explore AI and Generative AI
+`03` Build practical digital products
+`04` Improve creative & media skills
+`05` Learn entrepreneurship and digital business
+`06` Turn ideas into real-world projects
+
+---
+
+# `10 / PHILOSOPHY`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF1744,50:050505,100:00E5FF&height=100&section=header&text=ENTER%20THE%20NETWORK&fontSize=26&fontColor=FFFFFF&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=1000&color=F2F0EA&center=true&vCenter=true&width=700&lines=THINK+DIFFERENT.;BUILD+WITH+PURPOSE.;MAKE+IT+USEFUL.;MAKE+IT+MEMORABLE." />
 
-<br><br>
+</div>
+
+<br/>
+
+> **Ideas are everywhere. Execution creates the difference.**
+
+---
+
+# `11 / CONNECT`
+
+<div align="center">
 
 <a href="https://github.com/hhafil876-eng">
-<img src="https://img.shields.io/badge/GITHUB-FF1744?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=F2F0EA"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-hapiz-4a692429a/">
-<img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-080808?style=for-the-badge&logo=linkedin&logoColor=F2F0EA"/>
 </a>
 
-<br><br>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1400&pause=400&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E3%80%90+THANKS+FOR+VISITING+%E3%80%91;%E3%80%90+SEE+YOU+IN+THE+NEXT+BUILD+%E3%80%91;%E3%80%90+SYSTEM+STILL+RUNNING...+%E3%80%91" alt="Footer animation"/>
+<br/>
 
-<br><br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=hhafil876-eng&label=PROFILE%20ACCESS&color=FF1744&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=777777&center=true&vCenter=true&width=600&lines=OPEN+TO+LEARNING;OPEN+TO+COLLABORATION;ALWAYS+BUILDING+SOMETHING" />
 
 </div>
 
@@ -421,6 +331,12 @@ A concept focused on **interior design discovery, inspiration and designer exper
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,45:050505,75:30000B,100:FF1744&height=180&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B91C1C,45:161616,100:080808&animation=fadeIn" width="100%"/>
+
+### `MOHAMMED HAPIZ`
+
+**Computer Science • AI • Digital Creativity**
+
+`BUILD / LEARN / CREATE`
 
 </div>
